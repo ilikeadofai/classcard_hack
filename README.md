@@ -1,4 +1,4 @@
-# Classcard Hack 사용법 (한글 안내)
+# Classcard Hack 사용법
 
 ## 소개
 이 프로젝트는 Classcard(클래스카드) 웹사이트에서 다양한 학습 유형(암기, 리콜, 스펠, 테스트 등)을 자동화/매크로/API 변조 방식으로 빠르게 학습할 수 있도록 도와주는 도구입니다.
@@ -26,8 +26,8 @@
 - **Python, pip, 패키지 설치 불필요!**
 
 ### 2. 수동 (파이썬 소스 직접 실행)
-- Python 3.8 이상 (테스트: Python 3.13)
-- Windows 11 24H2 (테스트 환경)
+- Python 3.8 이상
+- Windows 10 or 11
 - Chrome 브라우저
 - pip 패키지 설치: selenium, beautifulsoup4, requests 등
 - requirements.txt로 패키지 설치 필요
